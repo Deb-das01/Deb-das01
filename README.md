@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deb-das01
-- 👀 I’m interested in contributing
+- 👀 I’m interested in contributing to open-source.
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me - email-swastidevdas@gmail.com
 
